@@ -25,10 +25,6 @@
 
 ### 🎓 42 Beirut — Software Engineering Student
 
-<p align="center">
-  <img src="./42-beirut-logo.png" width="120" alt="42 Beirut logo">
-</p>
-
 **Currently pursuing the 42 Common Core**, an intensive, project-based software engineering curriculum built around peer-to-peer learning, problem-solving, and hands-on programming.
 
 **Current learning focus:**
